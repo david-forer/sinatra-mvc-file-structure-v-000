@@ -1,3 +1,3 @@
 class Dog 
-  attr
+  attr_accessor
 end
