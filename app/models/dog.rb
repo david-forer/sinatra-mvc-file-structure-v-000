@@ -1,5 +1,8 @@
 class Dog 
-  attr_accessor :name, :breed, :assert_generates
+  attr_accessor :name, :breed, :age 
   
-  def initialize(name, breed, )
+  def initialize(name, breed, age)
+    @name = name
+    @breed 
+    
 end
